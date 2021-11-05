@@ -1,0 +1,5 @@
+{
+    "sqflint.exclude": ["dist/"],
+    "sqflint.indexWorkspace": false,
+    "sqflint.indexWorkspaceTwice": false,
+}
